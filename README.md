@@ -21,5 +21,6 @@ This module is FREE to use at your disposal.
 
 ## License
 <b>S.M.I.L.</b> module designed for [Joomla!](http://www.joomla.org), designed by [Viper Web Solutions](http://www.viperwebsites.com), released under the [GNU General Public License version 2 or later](http://www.gnu.org/licenses/gpl2).<br /><br />
+Copyright &copy; 2008-2010 Viper Web Solutions. All rights reserved.<br />
 (Last update: January 2011 - Version 1.6.0)
 
