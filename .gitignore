@@ -320,6 +320,7 @@
 /language/en-GB/en-GB.com_media.ini
 /language/en-GB/en-GB.mod_finder.ini
 /language/en-GB/en-GB.com_messages.ini
+/language/en-GB/en-GB.mod_socialmedialinks.ini
 /language/en-GB/en-GB.mod_tags_popular.ini
 /language/en-GB/en-GB.mod_tags_popular.sys.ini
 /language/en-GB/en-GB.mod_tags_similar.ini
@@ -393,6 +394,7 @@
 /language/en-GB/en-GB.xml
 /language/en-GB/index.html
 /language/en-GB/install.xml
+/language/en-US/en-US.mod_socialmedialinks.ini
 /language/overrides/*
 /language/index.html
 /libraries/cms.php
@@ -419,6 +421,16 @@
 /media/plg_system_highlight/*
 /media/system/*
 /media/index.html
+/modules/mod_socialmedialinks/style.css
+/modules/mod_socialmedialinks/mod_socialmedialinks.php
+/modules/mod_socialmedialinks/mod_socialmedialinks.xml
+/modules/mod_socialmedialinks/index.html
+/modules/mod_socialmedialinks/icons/index.html
+/modules/mod_socialmedialinks/icons/default/size1/*
+/modules/mod_socialmedialinks/icons/default/size2/*
+/modules/mod_socialmedialinks/icons/default/size3/*
+/modules/mod_socialmedialinks/icons/default/size4/*
+/modules/mod_socialmedialinks/icons/default/size5/*
 /modules/mod_articles_archive/*
 /modules/mod_articles_categories/*
 /modules/mod_articles_category/*
