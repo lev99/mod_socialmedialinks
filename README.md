@@ -1,4 +1,4 @@
-# [Module S.M.I.L.](http://adeptsite.info/content/view/24/39/)
+# [Module S.M.I.L.](http://www.viperwebsites.com/joomla-extensions/social-media-icons-links.html)
 
 Social Media Icon Links Extension (S.M.I.L.E.) v1.6<br />
 This simple module will display Web 2.0 style icons that link to your social media profiles.<br />
@@ -20,6 +20,6 @@ This module is FREE to use at your disposal.
 * Now includes option for additional icon themes
 
 ## License
-<b>S.M.I.L.</b> module designed for [Joomla!](http://www.joomla.org), designed by [Viper Web Solutions](www.viperwebsites.com), released under the [GNU General Public License version 2 or later](http://www.gnu.org/licenses/gpl2).<br /><br />
+<b>S.M.I.L.</b> module designed for [Joomla!](http://www.joomla.org), designed by [Viper Web Solutions](http://www.viperwebsites.com), released under the [GNU General Public License version 2 or later](http://www.gnu.org/licenses/gpl2).<br /><br />
 (Last update: January 2011 - Version 1.6.0)
 
