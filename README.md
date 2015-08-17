@@ -1,5 +1,6 @@
 # [Module S.M.I.L.](http://adeptsite.info/content/view/24/39/)
 
+Social Media Icon Links Extension (S.M.I.L.E.) v1.6<br />
 This simple module will display Web 2.0 style icons that link to your social media profiles.<br />
 To get started just download the package and unzip it first, then install the module corresponding to your Joomla version via the joomla installer. Then modify the parameters in the module manager. Add your social media profile URLs. Any URL fields left empty simply won't display that icon link.<br />
 This module is FREE to use at your disposal.
